@@ -1,5 +1,5 @@
 # Marie-2.0-English
-A modular telegram Python bot running on python3 with an sqlalchemy database.
+
 YOU CAN ONLY USE ME IN MOVIE HEIST GROUP
 keyboard = [[CHANNEL (text="OWNER",url="https://t.me/MoviieHeistmlm"),GROUP(text="DEVELOPER",url="https://t.me/movieheistmlmgroup")]]
 
